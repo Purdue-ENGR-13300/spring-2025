@@ -1,0 +1,37 @@
+.text-left{
+  text-align: left !important;
+}
+.text-right{
+  text-align: right !important;
+}
+table {
+  border-block: 4px solid blue;
+}
+/* thead {
+  border-block: 4px solid blue;
+  background-color: gold;
+  color: white;
+} */
+
+
+.sample-output {
+  background-color: lightgray !important;
+  font-family: monospace
+}
+
+.deliverables {
+  background-color: #cbb992;
+}
+
+.deliverables th {
+  background-color: #595959;
+}
+
+.deliverables th * {
+  color: white;
+}
+
+.user-input {
+  font-weight: bold;
+  font-style: italic;
+}
